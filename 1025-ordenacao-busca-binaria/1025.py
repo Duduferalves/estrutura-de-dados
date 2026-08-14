@@ -28,4 +28,3 @@ while True:
             print(f"{numero} not found")
 
     caso += 1
-    
